@@ -35,13 +35,13 @@ public class CalculadoraJava {
 		case 'M':
 		case 'm':
 			double multiplicacao = valor1 * valor2;
-			System.out.println("\nO valor da multiplicacao dos valores resultou em: " + multiplicacao);
+			System.out.println("\nA multiplicacao dos valores resultou em: " + multiplicacao);
 			break;
 
 		case 'D':
 		case 'd':
 			double divisao = valor1 / valor2;
-			System.out.println("\nO valor da divisão dos valores resultou em: " + divisao);
+			System.out.println("\nA divisão dos valores resultou em: " + divisao);
 			break;
 
 		default:
