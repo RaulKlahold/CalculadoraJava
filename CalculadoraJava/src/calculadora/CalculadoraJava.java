@@ -47,6 +47,8 @@ public class CalculadoraJava {
 		default:
 			System.out.println("\nEssa opcao é inexistente");
 			break;
+			
+			//finalização da calculadora
       
 		}
 
